@@ -32,8 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-# compiles class file
-*.class
+
 
 #log file
 *.log
